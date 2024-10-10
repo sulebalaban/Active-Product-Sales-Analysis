@@ -18,7 +18,7 @@ The project answers questions like:
 What time of day are purchases most frequent?
 Are there any periods of high activity?
 
-##Requirements
+## Requirements
 Python 3.x
 matplotlib
 pandas
